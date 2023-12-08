@@ -1,0 +1,66 @@
+[
+    {
+      "img": "https://i.ibb.co/LQVQ4mF/Rectangle-2.png",
+      "course_name": "Introduction to OOP Python",
+      "details": "Learn the fundamentals of Object-Oriented Programming (OOP) in Python with this beginner-friendly course.",
+      "price": 15678,
+      "credit_time": "7"
+    },
+    {
+      "img": "https://i.ibb.co/K5sBxFm/Rectangle-2-1.png",
+      "course_name": "Database (MySQL)",
+      "details": "Master the art of database management and MySQL in web development with hands-on projects and real-world skills.",
+      "price": 24985,
+      "credit_time": "4"
+    },
+    {
+      "img": "https://i.ibb.co/s9Y4CTM/Rectangle-2-2.png",
+      "course_name": "Introduction to C Programming",
+      "details": "Discover the basics of the C programming language and its applications in data science with this comprehensive course.",
+      "price": 18042,
+      "credit_time": "10"
+    },
+    {
+      "img": "https://i.ibb.co/Qb8FxRL/Rectangle-2-3.png",
+      "course_name": "Introduction to Algorithms",
+      "details": "Explore the world of algorithms and problem-solving in this graphics-rich course.",
+      "price": 13450,
+      "credit_time": "2"
+    },
+    {
+      "img": "https://i.ibb.co/BKyCH84/Rectangle-2-4.png",
+      "course_name": "Introduction to C++ for DSA",
+      "details": "Take your digital marketing career to the next level with this introduction to C++ for Data Structures and Algorithms.",
+      "price": 29344,
+      "credit_time": "6"
+    },
+    {
+      "img": "https://i.ibb.co/FgCkh76/Rectangle-2-5.png",
+      "course_name": "Software Engineering",
+      "details": "Dive into the exciting field of software engineering with this comprehensive introductory course.",
+      "price": 20376,
+      "credit_time": "8"
+    },
+    {
+      "img": "https://i.ibb.co/my2vvgX/Rectangle-2-6.png",
+      "course_name": "Problem-Solving Part",
+      "details": "Enhance your problem-solving skills and capture stunning images in this engaging photography course.",
+      "price": 11246,
+      "credit_time": "5"
+    },
+    {
+      "img": "https://i.ibb.co/X8G6Pv8/Rectangle-3.png",
+      "course_name": "Basic Data Structures",
+      "details": "Learn the essentials of data structures and their applications in this practical course on effective data management.",
+      "price": 31798,
+      "credit_time": "3"
+    },
+    {
+      "img": "https://i.ibb.co/SXszLjq/Rectangle-3-1.png",
+      "course_name": "AWS, Cloud Computing",
+      "details": "Delve deep into the world of AWS and cloud computing, complemented by a specialization covering various AI topics.",
+      "price": 20670,
+      "credit_time": "9"
+    }
+  ]
+  

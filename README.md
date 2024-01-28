@@ -2,7 +2,7 @@
 # Website Name: CodeCraftHub
 
 ## Live Link Surge
-- **Live Link:** [CodeCraftHub](CodeCraftHub-mahfuz.surge.sh/)
+- **Live Link:** [CodeCraftHub](https://codecrafthub-mahfuz.surge.sh/)
 
 **Features**:
 

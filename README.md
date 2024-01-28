@@ -2,7 +2,7 @@
 # Website Name: CodeCraftHub
 
 ## Live Link Surge
-- **Live Link:** [CodeCraftHub](https://assignment-seven-github-m.surge.sh/)
+- **Live Link:** [CodeCraftHub](CodeCraftHub-mahfuz.surge.sh/)
 
 **Features**:
 
